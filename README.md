@@ -39,11 +39,11 @@
 `vim preferences.json`  
 ```
 {
-	"user_movie": "John Wick",
-	"user_soap_opera": "The Walking Dead",
-	"user_food": "French_meat", "Pork_skewers0",
-	"user_season": "I like all seasons",
-	"user_country": "Germany"
+	"user_favorite_movie": "John Wick",
+	"user_favorite_soap_opera": "The Walking Dead",
+	"user_favorite_food": "French_meat", "Pork_skewers0",
+	"user_favorite_season": "I like all seasons",
+	"user_country_to_travel": "Germany"
 }
 ```  
 
@@ -51,8 +51,21 @@
 `vim sklls.json`  
 ```
 {
-	"user_soft_skills": "Git", "GitHub", "Postman_API", "SQL", "SOAP_API", "and etc",
-	"user_hard_skills": "attentiveness", "multitasking", "perseverance", "skill to work in team" 
+	"user_soft_skills": [
+		"attentiveness", 
+		"multitasking", 
+		"perseverance", 
+		"skill to work in team",
+		"and etc"
+		]
+	"user_hard_skills": [
+		"Git", 
+		"GitHub", 
+		"Postman_API", 
+		"SQL", 
+		"SOAP_API", 
+		"and etc"
+		]
 }
 ```  
 
