@@ -70,20 +70,20 @@ In field "Update README.md" enter ***changes*** then click `Commit changes`
 Go to file "bug_report.json" click `Edit this file`, insert json file:  
 ```
 {
-	"Id":
-  	"Severity":
-  	"Environment":
-  	"Title":
-  	"Steps":
-  	"Expected Result":
-  	"Actual Result":
-  	"Link":
-  	"License":
-  	"Role (unregistered, unauthorized, authorized, All)":
-  	"Telegram @nick. Bug started":
-  	"Telegram @nick. Bug reproduced":
-  	"Telegram @nick. Bug didn't reproduce":
-  	"Bug didn't reproduce (environment)":
+  "ID": "001",
+  "Severity": "Medium",
+  "Environment": "Devices",
+  "Title": "What?Where?When?",
+  "Steps": "Steps to reproduce",
+  "ER": "Expected Result",
+  "AR": "Actual Result",
+  "Link": "link",
+  "License": "license",
+  "Role": "Unregistered, Unauthorized, Authorized, All",
+  "Telegram @nick. Bug started": "@_",
+  "Telegram @nick. Bug reproduced": "@_",
+  "Telegram @nick. Bug didn't reproduce": "@_",
+  "Bug didn't reproduce (environment)": "Devices"
 }
 ```
 
