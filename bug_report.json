@@ -8,7 +8,7 @@
   "AR": "Actual Result",
   "Link": "link",
   "License": "license",
-  "Role (unregistered, unauthorized, authorized, All)":
+  "Role": "Unregistered, Unauthorized, Authorized, All",
   "Telegram @nick. Bug started": "@_",
   "Telegram @nick. Bug reproduced": "@_",
   "Telegram @nick. Bug didn't reproduce": "@_",
