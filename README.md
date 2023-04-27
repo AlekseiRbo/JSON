@@ -21,7 +21,7 @@ Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter
 `git push`  
 
 10. Edit the content of the “new.json” file - write information about yourself (full name, age, number of pets, future desired salary). Write everything in JSON format.  
-`vim json`  
+`vim new.json`  
 ```
 {
 	"user_name": "Riaboshapko Aleksei",
