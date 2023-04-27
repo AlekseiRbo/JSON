@@ -70,7 +70,7 @@
 ```  
 
 15.  Send 2 files at once to an external repository.  
-`git commit -am "Add diff "preferences.json" and "sklls.json"`  
+`git commit -am "Add diff 'preferences.json' and 'sklls.json'"`  
 `git push`  
 
 16. On the web interface, create a bug_report.json file.  
