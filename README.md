@@ -1,7 +1,9 @@
 # GIT Homework 1 "JSON"
 
 4. Create an external repository named JSON.  
-`` 
+```   
+Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter repository name and click "Create repository".   
+```
 
 5. Clone JSON repository to local machine.  
 `git clone git@github.com:AlekseiRbo/JSON.git` 
