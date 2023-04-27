@@ -71,9 +71,10 @@ Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter
 }
 ```  
 
-15.  Send 2 files at once to an external repository.  
-`git add . && git commit -am "Create 'preferences.json' and 'sklls.json'"`  
-`git push`  
+15.  Send 2 files at once to an external repository.    
+`git config --global alias.acm '!git add -A && git commit -m'`  
+`git acm "Create 'preferences.json' and 'sklls.json'"`   
+`git push`    
 
 16. On the web interface, create a bug_report.json file.  
 Click in the repository `Add file` then `Create new file` in field "Name your file..." enter "bug_report.json"  
